@@ -1,0 +1,24 @@
+{
+  "labels": {
+    "young": {
+      "keys": ["y"],
+      "color": "#00ff00"
+    },
+    "old": {
+      "keys": ["o"],
+      "color": "#0000ff"
+    },
+    "none": {
+      "keys": ["n"],
+      "color": "#ff0000"
+    }
+  },
+  "controls": {
+    "back": ["Backspace"],
+    "next": ["Spacebar"],
+    "quit": ["q", "Esc"],
+    "delete": ["d"]
+  },
+  "data": "data/reduced_coco_1000",
+  "out": "out/annotations.csv"
+}
