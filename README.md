@@ -4,7 +4,7 @@
 
 Paula Antequera, Egoitz Gonzalez, Marta Grasa and Martijn van Raaphorst
 
-[[paper]](assets/relic_paper.pdf?raw=true) | [[poster]](assets/poster.pdf?raw=true) | [[slides]](assets/slides.pdf?raw=true) | [[OpenReview]](https://openreview.net/forum?id=9_hCoP3LXwy)
+**[[paper]](assets/relic_paper.pdf?raw=true) | [[poster]](assets/poster.pdf?raw=true) | [[slides]](assets/slides.pdf?raw=true) | [[OpenReview]](https://openreview.net/forum?id=9_hCoP3LXwy)**
 
 This repository contains source code used in "**RELIC: Reproducibility and Extension on the LIC metric’s performance in quantifying bias in captioning models**", a reproducibility study on the paper [Quantifying Societal Bias Amplification in Image Captioning](https://openaccess.thecvf.com/content/CVPR2022/html/Hirota_Quantifying_Societal_Bias_Amplification_in_Image_Captioning_CVPR_2022_paper.html) (CVPR 2022, Oral), whose [source code](https://github.com/rebnej/lick-caption-bias.git) was used as a base for the code in this repository.
 An overview of their work can be found in this [website](https://sites.google.com/view/cvpr-2022-quantify-bias/home).
